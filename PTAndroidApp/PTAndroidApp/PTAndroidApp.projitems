@@ -10,6 +10,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)App.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)DataAccess.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DAL\DataAccess.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\PatientModels.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)Models\" />
+    <Folder Include="$(MSBuildThisFileDirectory)DAL\" />
   </ItemGroup>
 </Project>
