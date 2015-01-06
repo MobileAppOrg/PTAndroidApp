@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTAndroidApp", "PTAndroidApp\PTAndroidApp.csproj", "{25B1FA1A-7605-48A4-93EC-8FF257CD8B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTAndroidApp.Android", "Android\PTAndroidApp.Android.csproj", "{D8092334-918B-4BAB-B74C-F9326E1467DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25B1FA1A-7605-48A4-93EC-8FF257CD8B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B1FA1A-7605-48A4-93EC-8FF257CD8B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B1FA1A-7605-48A4-93EC-8FF257CD8B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B1FA1A-7605-48A4-93EC-8FF257CD8B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8092334-918B-4BAB-B74C-F9326E1467DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8092334-918B-4BAB-B74C-F9326E1467DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8092334-918B-4BAB-B74C-F9326E1467DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8092334-918B-4BAB-B74C-F9326E1467DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = PTAndroidApp\PTAndroidApp.csproj
+	EndGlobalSection
+EndGlobal
