@@ -7,7 +7,7 @@ namespace PTAndroidApp
 	{
 		public static Page GetMainPage ()
 		{	
-			return new ContentPage { 
+			return new StackLayout { 
 				Content = new Label {
 					Text = "Hello, Forms!",
 					VerticalOptions = LayoutOptions.CenterAndExpand,
