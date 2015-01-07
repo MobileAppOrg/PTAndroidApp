@@ -1,16 +1,28 @@
 ﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (KitKat)" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Android\MainActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PTAndroidApp\App.cs">
     <Files>
-      <File FileName="Android\Resources\values\Styles.xml" Line="26" Column="26" />
-      <File FileName="Android\MainActivity.cs" Line="151" Column="151" />
+      <File FileName="PTAndroidApp\Models\PatientModels.cs" Line="42" Column="42" />
+      <File FileName="PTAndroidApp\App.cs" Line="23" Column="23" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Node name="PTAndroidApp" expanded="True">
+            <Node name="Models" expanded="True" />
+          </Node>
+          <Node name="PTAndroidApp.Android" expanded="True">
+            <Node name="Resources" expanded="True">
+              <Node name="layout" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="C:\Users\mark\Documents\GitHub\PTAndroidApp\PTAndroidApp\PTAndroidApp\App.cs" line="85" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.PTAndroidApp.Android MonoForAntroid.PreferredDevice="Nexus 4" MonoForAntroid.PreferredTheme="Theme.Holo.Light.NoActionBar" />
+  <MonoDevelop.Ide.ItemProperties.PTAndroidApp.Android MonoForAntroid.PreferredDevice="Nexus 4" />
 </Properties>
