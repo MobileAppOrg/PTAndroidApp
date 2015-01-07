@@ -245,18 +245,3 @@ UpgradeLog.*
 
 # dotCover
 *.dotCover
-
-*.pidb
-*.userprefs
-*.swp
-*.DS_Store
-*.nib
-*.suo
-*/Thumbs.db
-
-*/bin/*
-*/obj/*
-*/*/bin/*
-*/*/obj/*
-*/*/*/bin/*
-*/*/*/obj/*
